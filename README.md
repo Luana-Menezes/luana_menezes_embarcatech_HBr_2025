@@ -1,23 +1,41 @@
-# Projetos de Sistemas Embarcados - EmbarcaTech 2025
+# Embedded Systems Projects - EmbarcaTech 2025
 
-Autor: **(insira seu nome)**
+Author: **Luana Menezes**
 
-Curso: Residência Tecnológica em Sistemas Embarcados
+Course: Technological Residence in Embedded Systems
 
-Instituição: EmbarcaTech - HBr
+Institution: EmbarcaTech - HBr
 
-Campinas, março de 2025
-
----
-
-## Sobre este repositório
-
-Este repositório reúne os projetos desenvolvidos ao longo do curso de Sistemas Embarcados, durante a etapa de residência.  
-
-Cada projeto tem sua própria pasta, contendo o código-fonte, documentação e recursos visuais.
+Campinas, March 2025
 
 ---
 
-## O que fazer com este arquivo
+## About this repository
 
-Ao fazer o *fork* do repositório, o aluno está livre para modificar este arquivo como quiser dentro do seu próprio *fork*.
+This repository contains the projects developed during the Embedded Systems course in the second phase of the residency program.
+
+Each project has its own folder, containing the code, documentation, and visual resources.
+
+## Projects
+
+- [Galton Board Digital](./projects/galton_board/)
+
+## Logbook (Reflections and Learnings)
+
+Throughout the course, this section will be updated with the most important learnings, challenges faced, and solutions that have been discovered.
+
+### Week 1
+
+- Insert notes here.
+
+### Week 2
+
+- Insert notes here.
+
+### Week 3
+
+- Insert notes here.
+
+## License
+
+MIT License or GPL-3.0
